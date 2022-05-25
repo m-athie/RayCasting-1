@@ -1,5 +1,5 @@
 # RayCasting-1
 
-Test console app studing. 
+Application of math for devs studies. 
 
 
